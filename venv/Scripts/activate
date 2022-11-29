@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Andrew Krause\Documents\myRepos\not done\flask\meme_generator\venv"
+VIRTUAL_ENV="C:\Users\Andrew Krause\Desktop\meme-generator-4\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
